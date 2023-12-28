@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+  }
+h3{
+    font-size: 30px;
+  }
+section{
+    display: flex;
+    flex-wrap: wrap;
+    
+    width: 1200px;
+}
+div{
+    display: flex;
+    width: 400px;
+}
+.greyWord{
+    color: grey;
+   
+}
+p{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.longWord{
+    width: 800px;
+}
